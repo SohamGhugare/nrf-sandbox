@@ -1,7 +1,9 @@
 {
     "nrf-connect.applications": [
+        "${workspaceFolder}/broadcast_audio_source",
+        "${workspaceFolder}/ncs-fund/v2.x.x/lesson2/fund_less2_exer1",
         "${workspaceFolder}/blinky",
-        "${workspaceFolder}/broadcast_audio_source"
+        "${workspaceFolder}/ncs-fund/v2.x.x/lesson2/fund_less2_exer2"
     ],
     "cmake.configureOnOpen": false
 }
