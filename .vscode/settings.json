@@ -1,7 +1,6 @@
 {
     "nrf-connect.applications": [
-        "${workspaceFolder}/broadcast_audio_source",
-        "${workspaceFolder}/inter_less2_exer1"
+        "${workspaceFolder}/broadcast_audio_source"
     ],
     "cmake.configureOnOpen": false,
     "C_Cpp.errorSquiggles": "disabled"
