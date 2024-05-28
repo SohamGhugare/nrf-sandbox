@@ -1,6 +1,8 @@
 {
     "nrf-connect.applications": [
-        "${workspaceFolder}/broadcast_audio_source"
+        "${workspaceFolder}/broadcast_audio_source",
+        "${workspaceFolder}/scan",
+        "${workspaceFolder}/central_uart"
     ],
     "cmake.configureOnOpen": false,
     "C_Cpp.errorSquiggles": "disabled"
